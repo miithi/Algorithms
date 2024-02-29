@@ -21,9 +21,9 @@ Practicing Algorithms in Java
         </ul>
     </li>
     <li> Non Comparison
-        <ol>
+        <ul>
             <li> Radix Sort </li>
-        </ol>
+        </ul>
     </li>
 
 
