@@ -16,6 +16,7 @@ Practicing Algorithms in Java
                 <ol>
                     <li> Merge Sort </li>
                     <li> Quick Sort </li>
+                    <li> Heap Sort </li>
                 </ol>
             </li>
         </ul>
