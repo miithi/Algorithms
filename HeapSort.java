@@ -22,7 +22,7 @@ public class HeapSort{
 
     public static void buildMaxHeap(int[] array){
         int n = array.length;
-        for(int i = n/2 - 1; i >= 0; i--)
+        for(int i = n/2 - 1/2; i >= 0; i--)
         {
             heapify(array, i, n);
         }

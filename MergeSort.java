@@ -75,7 +75,7 @@ public class MergeSort {
         //Sorting the random array with the bubble sort algo
         divide(0, 9, arr);
 
-        System.out.println("\nSorted Array:");
+        System.out.println("\nSorted Array (through merge sort):");
         for(int num: arr)
         {
             System.out.print(num + " ");
